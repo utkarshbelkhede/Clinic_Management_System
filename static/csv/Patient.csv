@@ -1,0 +1,462 @@
+Patient_ID,First Name,Middle Name,Last Name,Gender, Age,Contact,Address
+c22b7edb,Surajya,Vikram,Sable,Female,5,9423664851,Bhavani Nagar
+64141ba7,Raju,Dattatray,Alkute,Male,36,8888868634,
+74aba883,Riddhi,Rahul,Mane,Female,5,9146296748,
+d50f54f1,Viddya,Chandrakant,Janrao,Female,60,9823146250,"Kurduwadi, Latur"
+2c65be6d,Babanrao,,Mhaske,Male,81,8275205805,Shendewasti
+a1cf1969,Gitanjali,Rahul,Ghadge,Female,24,9561909084,Sarpanch Wasti
+99a11ea9,Yograj,,Janrao,Male,22,9860102703,Bhoitenagar
+e62547f0,Kisan,Vitthal,Bhise,Male,60,9860102703,Karjat
+858ea5f1,Ramesh,Sitaram,Jadhav,Male,50,9890117425,Sarpanch Wasti
+3b512817,Sanjay,Appasaheb,Pawar,Male,48,9881004834,Sawant Nagar
+21426101,Janardhan,,Shirture,Male,44,9284853219,Bhoitenagar
+8fa7c9a3,Suryakant,Waman,Shinde,Male,73,8379906906,Shendewasti
+3d0018d3,Bayadabai,,Thorat,Female,62,9158005899,Balaji Nagar
+2144d3fd,Mayuri,,Thombare,Female,24,8446165134,Dattanagar
+f55c8dfd,Balasaheb,,Dabhade,Male,61,9765295637,Bhavani Nagar
+6f8764f2,Jagruti,,Machale,Female,40,9028870826,Ganesh Society
+cd72d498,Gokuldas,Rama,Gange,Male,68,9423222153,Varad Vinayak Society
+fb2663a2,Shobha,,Kadam,Female,47,,Bhavani Nagar
+7ba491f0,Aryan,,Jadhav,Male,12,7028523365,
+63a4bc85,Nilam,,Pawar,Female,25,7378977171,Gajanan Society
+ca21f26a,Vedant,,Bamb,Male,7,9420411789,Devkinagar
+32e2c15c,Rohit,,Atole,Male,25,9561434143,Bhoitenagar
+c55ffbc3,Sakshi,,Ingle,Female,20,9552746047,Samata Nagar
+56485c07,Kanchan,,Sarode,Female,43,9561767637,Bhavani Nagar
+1a62050c,Sai,,Patil,Female,24,9975761901,Sarpanchwasti
+6fcd39ea,Sneha,Sagar,Chavan,Female,19,9763587352,Borawkenagar
+43b5999d,Juhi,,Hole,Female,5,9373403443,Gopalwadi
+d0678423,Rajesh,,Gange,Male,44,9011045008,Varad Vinayak Society
+37221f40,Subhash,G,Daware,Male,71,9049290553,Balaji Nagar
+6894fca3,Alka,Bhimrao,Khaire,Female,64,8252094303,Hinghiberdi
+72734ae0,Sumit,Tanaji,Khaire,Male,10,8252094303,Hinghiberdi
+c70be295,Dattatray,,Choundkar,Male,65,8459094934,Bhoitenagar
+84adb5fb,Ajay,Kumar,Jha,Male,47,8668331708,Indradhanu Appartment
+47c34ee7,Ambika,,Chivate,Female,30,9172054164,Sarpanchwasti
+47b978f1,Rajni,Rambhau,Daware,Female,65,9156380060,Sarpanchwasti
+a2dcc467,Sunita,Vikram,Shelar,Female,32,9766323912,Varad Vinayak Society
+4fce6f23,Priyanka,,Kalbande,Female,27,7058088262,Shendewasti
+f629dde8,Vanmayi,,Pawar,Female,13,9967433291,Gajanan Society
+7a36c286,Dnyandeo,Baban,Bhujbal,Male,63,7387539292,Phulenagar
+6b85943a,Fakirappa,,Pujari,Male,70,8007759439,Swapnarang Appartment
+ef7c80d1,Sachin,,Bawdhankar,Male,32,8007967843,Near Sakhare Garage
+26558b9d,Varsha,Laxman,Jamkar,Female,42,8180951975,Saraswati Nagar
+0207c50f,Aarav,,Kadam,Male,5,7276130761,Gajanan Society
+ea1df2e8,Tukaram,,Bhosale,Male,44,9420182636,Varad Vinayak Society
+c1da161f,Lata,,Sarate,Female,42,9511726219,"SRPF Group-7, 50 Quarters"
+ba0cb184,Sunita,,Misal,Female,31,7620469491,"SRPF Group-7, 50 Quarters"
+5b79182f,Indrajit,,Patil,Male,21,8551859081,Shivraj Nagar
+df902ba4,Kashinath,Yashwant,Hole,Male,70,9923000219,"Rudraksh, Phase-II"
+ba40ea08,Prakash,,Sonawane,Male,55,9766066941,
+0aabc0e0,Vedika,,Gadade,Female,9,9226881977,Sawant Nagar
+056e0fe6,Rudra,,Gadade,Male,6,9226881977,Sawant Nagar
+4c1eb2eb,Bappa,,Gaikwad,Male,41,9552038172,Near Siddeshwar Hospital
+fd642d83,Varsha,,Dhawan,Female,32,9822713729,Padmavati Nagar
+575e57f9,Sunny,,Mhetre,Male,33,9552347988,"Saikunj appartment, Gopalwadi road, Daund."
+6f31ab2b,Nitin,,Gunware,Male,40,8605852017,"Bhawaninagar, Gopalwadi road, Daund."
+94473913,Shloke,,Urshile,Male,6,9823240858,"Shivraj Nagar, Daund"
+ec5da649,Bhagwat,,Burhade,Male,50,9860601341,"Near Sawant Bungalow , Shivraj Nagar , Gopalwadi Road , Daund"
+,,,,,,,
+a57cb4f0,Arvind,,Suradkar,Male,47,8308004664,"Dattanagar, Daund"
+f3d1a939,Sandhya,,Bamb,Female,35,8956485221,"Devkinagar, Daund."
+96f3a7a0,Ajay,,Bansode,Male,50,9923076231,"Meera Housing, Society, Daund"
+27f9d225,Rushikesh,,Malvankar,Male,21,9860034090,Varad Vinayak Society
+f40317e5,Subhash,,Pawar,Male,48,7378977171,"Gajanan Society, Daund"
+0bb5b199,Deepak,,Jagtap,Male,43,9881177116,"Sarpanchwasti, Daund"
+a2d4bc8b,Rakhi,,Jadhav,Female,27,9890733700,"Ramwadi , Gopalwadi, daund"
+58ca104e,Priti,,Ellarkar,Female,26,8390659068,"Shivraj Nagar, Daund, Maharashtra 413801, India"
+fea3434d,Arjun,,Chormale,Male,38,9975501044,"Gopalwadi Road, Daund"
+36b6b979,Anirudha,,Dongre,Male,38,7350571485,Grime
+04ea0b1f,Imran,,Sayyed,Male,28,7038487865,"Shendewasti, Gopalwadi Rd"
+7430237b,Devidas,,Ghogare,Male,48,9766876672,"Gopalwadi , Daund"
+7dc62f18,Sarjerao,,Phalke,Male,59,9657040705,"Bhavani Nagar , Gopalwadi Road , Daund"
+8bfc60d5,Adwait,,Pawar,Male,5,7588072020,"Varadvinayak Society , Daund"
+,,,,,,,
+dc452207,Raju,,Kushwaha,Male,29,9839679554,"Kurkumb, Daund."
+a215171a,Jyoti,,Waghmare,Female,31,9503749678,"Samtanagar , Daund"
+5fa2930d,Prashansha,,Jagtap,Female,6,9272349733,"Banglaside , Daund"
+6ed9dda2,Dnyaneshwari,,Jangale,Female,24,9552279508,"Meghmahallar Appartment, Gopalwadi Road, Daund."
+,,,,,,,
+3f62ccc8,Seema,,Aher,Female,33,9028840420,"Ramwadi, Gopalwadi Road, Daund."
+accdfefb,Shyam,,Ranshrungare,Male,45,9922313377,"Near sawant bungalow , Daund"
+,,,,,,,
+6249530f,Vijay,,Pathare,Male,35,9923232130,SRPF Group no. 5
+a05627c6,Seema,,Girme,Female,24,9850959572,Gopalwadi
+fbae8583,Raj,,Mehra,Male,33,9860582264,"MIDC Kurkumbh, Daund"
+54920efd,Sadhan,,Biswas,Male,24,9511716241,"Yuraj Hotel , Daund"
+5cc9d6d0,Sanjay,,Bhujbal,Male,53,9673044918,"Shivraj Nagar , Daund"
+eff0dd28,Nanda,,Dorgae,Female,50,,Pasalkar Wasti
+2c8e3d2c,Vinod,,Shivbhare,Male,26,7083518379,"Bhim Nagar , Daund"
+c2fbc858,Vishwajeet,,Deshmukh,Male,9,9561777177,"Near HDFC Bank , Sanskar Nagar , Daund"
+42c7fdac,Omkar,,Nage,Male,18,9890827392,"Wireless Phata , Daund"
+214cdf02,omkar,,Randhave,Male,18,7841921535,"Phule Nagar , Gopalwadi Road , Daund"
+2f439f8e,Mohammed,Rafi,Shaikh,Male,59,9822458236,"Panchganga Society, Daund."
+22a8f7cd,Amol,,Salve,Male,37,8623987654,SRPF GR. 5
+54e023c4,Kishore,,Bhoite,Male,45,9765100110,"Gajanan Society, Daund"
+79b7a0e6,Atul,,Randhave,Male,30,9657291010,Nimgaon Khalu
+d5da0227,Balasaheb,,Thorat,Male,55,9767812728,"Balaji Nagar , Daund"
+4b0a0d37,Jitu,,Nanaware,Male,44,9850494469,Hadapsar
+3b69afbf,Sandeep,,Jagtap,Male,38,9049997711,"Bhavaninagar, Girim, Maharashtra 413801, India"
+6776548d,Meena,,Jadhav,Female,32,9975012323,"Jadhav Wadi , Daund"
+e228f422,Shivam,,Pal,Male,22,7843927270,"Anushka complex , gopalwadi road , daund"
+d3c9faf9,Ankit,,Varma,Male,25,8840316868,"Anushka complex , gopalwadi road , daund"
+19db80da,Gopal,,Vautre,Male,50,9423222336,"Near Varad vinayak society , daund"
+e2c149b5,Noorjaha,,Tamboli,Female,47,9850948233,"Shirapur Road, Daund."
+ed6450c8,Snehal,,Salve,Female,21,9665374118,"Nikita park , Daund"
+,,,,,,,
+99748257,Snehal,,Salvae,Female,21,9665374118,"Nikata Park, Daund."
+6dd5f06b,Mohan,,Jagtap,Male,45,9960181182,Shrigonda Factory
+e6a5318b,Balaji,,Yelutwad,Male,40,9405152788,"Padmavati nagar, Daund."
+1adb1f6b,Samyak,,Gaikwad,Male,9,9860689831,Mane Hospital
+b256fb98,Usha,,Gadade,Female,30,9860801021,Sawant Nagar
+fcd7b892,Sachin,,Londhe,Male,41,9975770230,New Court
+9a06930f,Jetendra,,Singh,Male,28,9130542582,Jagdamba Sweets Owner
+0bb9630a,Shobita,Nilesh,Kadam,Female,7,7387400820,"Bhavaninagar, Daund."
+,,,,,,,
+036362f6,Arjina,,Patel,Female,30,9607914984,"Kasturi Park , daund"
+5914de56,Vineet,,Pawar,Male,7,8275466008,"Rajnandani appartment , daund"
+b53e65f3,Rupali,Machindra,Navale,Female,37,9850574991,"Wireless phata, Patas road."
+8ed5bf99,Zubair,,Shaikh,Male,21,9579838822,"Saiswapana appartment, Bhavani Nagar, Daund."
+0b25b910,Swarali,Sharad,Jhadav,Female,12,9890794482,Girim
+d141a745,Nandkishor,Vasant,Madikar,Male,58,7218869181,"Sarpanch Wasti ,Gopalwadi Road, Tal:, behind Mane Hospital, Daund, Maharashtra 413801, India"
+42e4d274,Mohini,,Sakhare,Female,23,9422028367,"Sakhare garage , gopalwadi road , daund"
+bc0a1cd4,Machindra,Narayan,Navale,Male,54,9850574991,"Wireless Phata, Patas Road."
+3e8b0440,Sangeeta,,Darekar,Female,47,9096117126,"Gopalwadi , daund"
+b4168858,Razia,,Shaikh,Female,70,,"Shende vasti , gopalwadi road , daund"
+00004ff2,Santosh,,Raut,Male,31,9730372137,"Near Siddhshwar Hospital, Daund."
+7bf540b3,Sudha,,kumari,Female,33,7028032884,"Banglaside , daund"
+7b517819,Shamshudin,,Shaikh,Male,63,,"Shende Wasti, Gopalwadi Road, Daund."
+bc05044f,Harshada,,Bankar,Female,19,7776919914,"Gopalwadi Road, sarpanch wasti, Daund."
+2f9e4300,Tejaswini,,Salunke,Female,23,8956131932,"Near HP gas agency, Daund."
+aec0899d,Sunanda,,Sanap,Female,39,7039289855,"Dattanagar, Gopalwadi Road, Daund."
+78f76ccc,Ashwini,,Girase,Female,31,9624808763,"Yeshumati Appartment, Near Jijamata High School, Gopalwadi  Road, Daund."
+98ebc3f9,Rushali,,Mhatre,Female,33,9552347988,"Saikunj appartment , Gopalwadi road , Daund"
+c599a065,Savita,,Mane,Female,42,9923176400,"Sarpanchwasti , Gopalwadi road , daund"
+249e7ce0,Sharad,,Mane,Male,44,,
+18fc64b6,Sarita,,Dalimbe,Female,39,7020390650,"Panchaganga society , gopalwadi road , daund"
+c05e6d6e,Dada,,Dalimbe,Male,45,7020390650,"Panchaganga society , gopalwadi road , daund"
+08ae76cb,Farhan,,Khan,Male,20,7397936515,"Saraswati nagar, daund"
+4a6d08b6,Subhadra,,Shivankar,Female,66,,"Amar society, Daund."
+e357cdeb,Aarohi,Sambhaji,Mundhe,Female,7,7588934524,SRP Camp Gr 5   200- 19/10
+25c87b12,Amol,,Randive,Male,,,
+4ef70579,Ambresh,,Lingadhar,Male,22,7219108011,Railway Colony
+81f3002e,karan,,dongre,Male,24,7387172700,gopalwadi
+ab839256,Sarubai,Mohan,Dalimbe,Female,65,9763169455,"Vighnaharta Apartment, Daund."
+b5f3f2be,Imambai,,Bandise,Female,70,7058150513,Dattanagar
+42ae5923,Sakharam,,Lakade,Male,34,8788194333,"Swapnarang Apartment, Daund."
+633f8f22,Karan,,Dongare,Male,24,73871772700,"Gopalwadi Rd, Daund, Maharashtra 413801, India"
+773615ff,Dhanashree,,Pisal,Female,40,8806529581,"Near, st. sebastian high school, daund"
+e7e4877b,Raju,,Jadhav,Male,50,9422232153,"Jadhavwadi , Girim , daund"
+8d54215e,suvarna,,gaikwad,Female,40,9011840140,"dattanagar , daund"
+d6639d22,vedika,santosh,shinde,Female,6,9423249816,"bhoite nagar , daund"
+546e9dcf,mayuri,,pawar,Female,34,8275466001,"rajnandani appartment, daund"
+8f036d32,Madhavi,Santosh,Salve,Female,39,9146620882,"Shreyesh Appartment, Gopalwadi road, Daund."
+,,,,,,,
+a861b94a,Vikas,Baban,Bhagwat,Male,29,9028137228,"Kurkumbh, Maharashtra 412219, India"
+a4ccabcf,Surekha,,Shelar,Female,60,9420857919,"amar society , daund"
+abc29f7e,Swaransh,,Shinde,Male,8,8830045942,"shende wasti , daund"
+6ae52e28,Ashwini,,Raut,Female,,,Kurkumb
+00adb00c,Vedant,,Chougule,Male,3,9036415772,"Dev Palm, Daund-Gopalwadi, Daund"
+4e6af55e,Sujata,,Karamkar,Female,40,9923313253,"SRPF camp 5 , daund"
+8c07f5ee,Vaishnavi,,Barde,Female,14,8668398142,"balaji nagar , daund"
+65ed2a68,Renuka,,Jadhav,Female,32,9503578153,Sarpanch Wasti
+cd8549fc,Bhaskar,,Devkar,Male,65,9975711831,Bhavani Nagar
+92e4594b,Avinash,,Nikam,Male,52,8888804231,SRPF Group 5
+b1c76526,Dilip,,Langote,Male,57,9226359048,"Near Rajdhani hotel , Daund"
+69e1a850,baba,,shaikh,Male,42,9975529049,"near dev palm , daund"
+6673b014,Dhuldo,Dada,Khatal,Male,24,7057217676,Ghar
+f6f95673,Aparna,Keshav,Bhoite,Female,41,9011088011,Gajanan Society
+3b0c154c,aishwarya,,munot,Female,24,7769935355,"hutatma chowk, daund"
+0e2617c9,baban,,bhagwat,Male,55,,"kurkumbh, daund"
+b554c278,sunanda,,bhagwat,Female,49,,kurkumbh
+c7c163b0,Prakash,,Pardasani,Male,40,9226384976,"Daund,  8788864126"
+45404cac,shridhar,,daundkar,Male,30,7028580898,"varad vinayak society , daund"
+de6c64df,lohu,,birasis,Male,66,9049604643,"devkinagar, daund"
+4cfc30c2,chandrakala,,shinde,Female,34,9067115583,"yeshomati appartment , devkinagar, daund"
+662644c8,vijaykumar,,gaikwad,Male,68,9765067516,"gopalwadi , daund"
+,,,,,,,
+cf8e0c99,Anupama,,Sonawane,Female,50,9673274432,"Shende wasti, near HP-gas agency, Gopalwadi Road, Daund."
+c10f095b,Vijaykumar,,Arali,Male,56,9822558948,Bhavani Nagar
+02ca64ed,Vedant,,Chougule,Male,4,9036415772,"Dev Palm, Daund."
+b68b633d,Makarand,,Pawar,Male,,7588072020,Varadvinayak society
+,,,,,,,
+3ff829df,Deepali,Mayur,Dhumal,Female,29,7219632072,
+72ddf8bf,Sila,Nandkishor,Madikar,Female,45,9637555287,Sarpanchwasti  Daund
+73da9a07,sudhakar,,belulkar,Male,56,9922111157,"near axis bank, daund"
+0e31c8da,Kamal,,Jadhav,Female,60,9637954380,Girim
+60320668,Raju,,Waghmare,Male,46,9970988432,"Gopalwadi Rd, Maharashtra 413801, India"
+3959b9b4,Gayatri,,Thombre,Female,27,7264038331,Varadvinayak Society
+5ac9149d,Zumberbai,Lahanu,Makar,Female,40,9970786035,Girim
+88bb4244,Akash,,Kamble,Male,19,9834997548,"Gandhi cheek, Daund."
+89267959,Veena,Mahesh,Kenjale,Female,42,8975574389,Meghan malhar appt.
+,,,,,,,
+8d6d2fdf,Dilip,,Langote,Male,57,9226359048,"Near Rajdhani Hotel, DAUND"
+43e90e02,Nikita,Laxman,Bankar,Female,21,9860769793,"Sarpanch Vasti ,Gopalwadi Road ,Daund"
+f95b346c,Veena,Mahesh,Kenjale,Female,42,8975574349,"Meghmalhar HSG Soc.Gopalwadi Road, Daund"
+d0e42a21,Gorakshnath,Rangnath,Hingne,Male,40,9420397171,Shrigonda
+9c92ac7c,Snehal,Namdeo,Awachar,Female,31,9834855721,"Deulgaon Raje , Tal. Daund Dist.Pune"
+1cf31419,Narayan,Kutti,NAIR,Male,56,7798234470,56
+8e92ed62,Dilip,,Langote,Male,57,9226359048,"Near Rajdhani Hotel, Daund"
+d0f5e674,Bhaushaeb,Ramchandra,Karale,Male,52,8459484593,"dattanagar,daund"
+1cad0c4f,Vishal,,Gavali,Male,23,9130745511,"Gopalwadi, daund"
+1778d759,sangeeta,,damgude,Female,33,9423266398,"meghmalhar society , daund"
+6d04a040,Anita,,Munot,Female,50,7892544132,"Hutatma chowk, daund"
+d309d6a2,Abhishek,,Nikat,Male,22,9657413169,"Shivraj Nagar,daund"
+b4315db0,Ashish,,Pawar,Male,42,8378986445,"Near, Rajdhani hotel"
+766c9dbc,Pramila,,Ghadge,Female,42,7058131049,"Shivrajnagar,daund"
+8d24fbbc,sarjirao,,dhokne,Male,41,9028505131,"Gajanan Society Rd, Daund, Maharashtra 413801, India"
+5037b0b2,tanaji,,hulage,Male,30,9767982179,"sarpanchwasti,daund"
+e8e8a824,Haribhau,,Tekawade,Male,60,9890099804,Gopalwadi
+8bcb478a,Namrata,,Kasbe,Female,27,9028083308,"near, Sakhare garage, Gopalwadi Rd, Daund, Maharashtra 413801, India"
+8d2524bf,Rutuja,,Diwekar,Female,28,7875370743,Warwand
+41399959,Swapnali,,Divekar,Female,28,7219759596,Warwand
+9fca2207,prathemesh,,bhat,Male,31,9975251880,"SRPF camp Group 7 , daund"
+d3307ab6,savita,,kolpe,Female,45,9689000758,"near devpalm , daund"
+5a00e05b,vishal,,pawar,Male,38,9623080800,"shivrajnagar ,daund"
+2033e03b,Ambika,Navnath,Devdhe,Female,30,9623245301,State Reserve Police Force gr No 07 DAUND
+0d3a0af3,Priyanshu,Sachin,Thorat,Male,11,9028373908,Daund gopalwadi
+ff58064e,dr. divekar,,.,Male,50,,daund
+c27aa7d0,pranita,,puri,Female,11,8805444576,"dattanagar , daund"
+1aaa4e1f,Mr.,,Deshmukh,Male,,,Deshmukh Garage
+b320feee,Deepali,Praful,Gandhi,Female,44,7709027999,"Gajanan Society Rd, Daund, Maharashtra 413801, India"
+7b454126,Sneha,Shahaji,Pawar,Female,11,7841976145,Devkinagar daund
+8e5db373,Vimal,Vittal,Shende,Female,55,9921125444,"Gopalwadi Rd, Borawake Nagar, Daund, Maharashtra 413801, India"
+d430c673,tejashree,samadhan,bagal,Female,26,7758003730,"mahesh society, daund"
+1a53d7f9,Mahesh,Bhagwan,Ambatwad,Male,31,9130962827,"Daund, Maharashtra 413801, India"
+1ba222ad,jeevan,,thombre,Male,28,9272446680,"Varad Vinayak Society, Daund, Maharashtra 413801, India"
+5346ac10,Shubra,Anil,Randhave,Female,8,9657291010,Limgaon
+8f24f24f,maruti,,choramle,Male,23,9657398538,girim
+dc216fe0,Rajendra,,Singh,Male,26,8860162984,"Near Siddheshwar hospital , Gopalwadi Road ,Daund"
+0a67344e,Sanghpal,Sitaram,Jangle,Male,31,9834126594,"Bhoite Nagar , Daund"
+ce6cbb3a,Sharda,,Ghadge,Female,24,9022854428,"Gopalwadi, Maharashtra 413801, India"
+787419dc,Shlok,Valmik,Parkhe,Male,2,7798202826,Flat no. D-10 Swapnrang Apt. Gopalwadi road
+5aef16af,Shame,Bapurao,Khomane,Male,24,9465675757,Shivraj nagar daund
+6ac8218c,Disha,,khile,Female,29,9271418160,"shivrajnagar, daund"
+a6796a4c,Siddhi,,Gandhane,Female,14,8423222308,"Devendra classic apartment above yogaj hotel , daund"
+9347f44a,S,N,Muddhan,Male,77,9403626285,"near deshmukh garage, daund"
+fd02f216,Swapnil,Subhash,Kamble,Male,28,9421840424,Navingar
+,,,,,,,
+e92ac87f,Asha,,Ghopade,Female,44,8055840005,"dattakala appt. gopalwadi road , daund"
+52dc07cb,Seema,,Divekar,Female,45,7276400034,
+23f16877,RAJU,,KASBE,Male,28,8668865543,"DATTA NAGAR, DAUND"
+043e1ba6,Uday,Subash,Kulkarni,Male,42,9860257370,"Mandar Appartment, Salimar Square"
+18461a07,Rajeshree,,Desai,Female,43,7020990875,"near siddeshwar hospital, daund"
+30cedb48,Hrishan,,Langewar,Male,8,9307613448,"near st. sebastian high school, daund"
+78500fe5,Tejaswini,,Waghmare,Female,30,7841033886,"Nagar Mori, Daund."
+cea39967,Saksham,Satish,Kamble,Male,5,7272974848,"D - Wing, Panchganga appt , Gopalwadi Rd."
+21031d60,Monika,,Rajpurohit,Female,16,8600652148,Daund
+00dee15c,Arti,Ajay,Ardhapure,Female,28,9890532109,Dev Palm Society Daund
+59c0a821,Dattaprasad,Nagendra,Upadhye,Male,38,9763640571,"Daund,Dattakala app.gopalwadi road"
+08ae66eb,Anaya,Raju,Alkute,Female,5,8888868634,SRPF group 5
+17a45c72,Richard,George,Court,Male,68,8149177273,Court Villa Near St.Sebastian School. Daund.
+94e6a4da,Gauri,Jagdish,Mantri,Female,26,8446256383,"Mantri sadan, Near Mission Hospital, Daund 413801"
+424a3ff8,Akash,,Gaikwad,Male,24,7841886867,"shende wasti, Gopalwadi Rd, 413801, Daund, Maharashtra 413801, India"
+ef7f6636,Amrut,Mohan,Kumbhar,Male,32,8805706394,Patas
+fe1e6a49,Namdeo,Prabhakar,Kamble,Male,26,8554825557,"Sam Tanager, Daund."
+4f129a3f,Dinesh,,Adsul,Male,41,9421762569,"Sarpanchwasti, Daund."
+0b47262c,Sushma,Dinesh,Adsul,Female,38,9421762569,"sarpanchwasti, daund"
+7f708ca0,Vivek,Vijay,Shelar,Male,41,9822514131,Amar society Daund
+77e1f976,Lata,Bhagwan,Katare,Female,50,9850193441,"Near , Siddheshwar Hospital , Gopalwadi Road , Daund"
+1dd488bf,Dnyandev,Baburao,Lonkar,Male,55,9423534557,"Bhavaninagar, daund"
+300eb31f,Sangeeta,Anil,Londhe,Female,48,9561883787,"Kauta, Srigonda"
+7f41dc2b,Sachin,,Kamble,Male,42,9730185426,"Gajanan Society Rd, Daund, Maharashtra 413801, India"
+ffa4acfb,Prakash,Vilas,Jadhav,Male,36,9922114410,"Datta House,Samata Nagar,near Akash Apt."
+942a8542,Sudhir,,Nimbalkar,Male,36,9768434266,Sriram Apartment Devkinagar Daund
+7d1ac290,Ashwini,,Gejage,Female,26,7756853113,"Awambar nagar, St. Sebastian Road,Daund."
+772a87dd,Somnath,Pralhad,Navle,Male,46,7768897636,"Wireless Phata, Patas road."
+ad1f7baf,Shankar,,Gejage,Male,57,9623159667,"Sam Tanager, daund"
+120615ac,Dattatray,,Malve,Male,40,9730350355,Gopalwadi
+b4ad3748,Munaf,,Inamdar,Male,23,9975078265,"Nagar Mori, Daund."
+cac7d203,Shauraj,,Jadhav,Male,39,9130661804,"Sankul Apartment, Samatanagar, Daund, Maharashtra 413801, India"
+610c1ef5,Sunita,Kisan,Chormale,Female,42,9766382611,Gopalwadi
+9c58f1e4,Ashwini,Nitin,Bhadre,Female,32,9422540309,"Gopalwadi, Daund"
+dcebc172,Usha,,Kulkarni,Female,70,,Daund
+76caf1f1,Sachin,,Zagde,Male,36,9527259797,Girim
+ceafdf3f,Kashinath,Vaida,Mane,Male,32,9870037461,"Gopalwadi Rd, Daund, Maharashtra 413801, India"
+6f35ce19,Sadashiv,,Waise,Male,35,8605477677,"Betwadi, Maharashtra, India"
+a15ae366,Shrusti,,Pansare,Female,19,9370168330,"Gajanan Society Rd, Daund, Maharashtra 413801, India"
+7d54f737,Prakash,Namdeo,Sonawane,Male,40,9921035990,"Rudraksh appartment, Samtanagar, Daund"
+263f3d9d,Rahul,Vikas,Kadam,Male,26,9021110253,"Daund, Maharashtra, India"
+c230713f,Komal,Vikas,Chavan,Female,35,9970505188,"Shivrajnagar, daund"
+6629d58a,Sunayna,,Mane,Female,40,9766361760,"Near Siddheshwar school , Gopalwadi Road , Daund"
+d57ac352,Salima,,Pathan,Female,59,9175076279,"Khaja vasti , Daund"
+7fcbb15b,Aditya,,Wadgude,Male,28,9673685700,"Behind Mahalaxmi Hospital , Daund"
+912eb151,Shrikant,Devidas,More,Male,33,7028107109,Samata Nagar
+57eb23c2,Sayali,Sambhaji,Gadhave,Female,18,9822668958,"Varad Vinayak Society, Daund, Maharashtra 413801, India"
+1b723dd1,Sanjiv,,Adhav,Male,54,9623140491,"Near daund police station, daund"
+2db737da,Ramdas,,Mergal,Male,36,9850147519,"Mergalwadi, daund"
+c154162a,Madhuri,,Chandgude,Female,33,7758992977,"Bhoitaynagar, Daund"
+363d2e91,Priyanka,,Dhakar,Female,30,7387811713,"Amar society, Gopalwadi Rd, Daund, Maharashtra 413801, India"
+b9592d57,Sandeep,,Patole,Male,27,7038068881,"Daund, Maharashtra, India"
+67eccc3a,Ganesh,,Aghav,Male,29,8805755381,Heramb Appt. Onkar Aqua
+6b5b5b1b,Alzain,Abdul,Patel,Male,10,9158881329,"Kauripark, Daund, Maharashtra 413801, India"
+cd835c96,Vidya,Sharad,Pawar,Female,31,8308813751,"SRPF 5, Daund"
+1bfe4b84,Monika,,Gulve,Female,31,8888818397,"Dev palm, daund"
+8c1070b6,Nirmala,,Kalkar,Female,62,9975592072,Daund
+1cc9c9d7,Suman,,Waghdare,Female,60,,"Katha, shirur"
+d0bae519,Rahul,,Gaikwad,Male,34,9067955571,"SRPF  Group 7, Daund"
+f1ab82f7,Jayshree,,Divekar,Female,45,7709824344,Warwand
+dd1033bd,Om,,Divekar,Male,23,9579212021,"Warwand, Maharashtra 443304, India"
+f691feb1,Rohit,Ramesh,Nanaware,Male,29,9028678055,Swapnaswrup apartments gopalwadi road daund
+827d29f0,Sunita,,Lendi,Female,22,9168997519,"Datta nagar, daund"
+beaff515,Sushant,Sanjay,Hole,Male,24,9921818406,Gopalwadi
+6ca96c93,Mangala,Raju,Gadge,Female,42,8600237729,"Near gajanan society , daund"
+1b3c3211,Krishna,Navnath,Bhusnar,Male,5,9730673329,"Gopalwadi Road Mauli Complex, Sarpanch wasti, Daund, Maharashtra 413801, India"
+442d8a78,Mahesh,Vinayak,Adsul,Male,22,9021513919,Ravangaon
+2f013eba,Priyanka,,Palange,Female,20,7058776890,"laxminagar gandhi chowk, daund"
+dd3e0f4b,Lalita,,Mane,Female,34,9921737986,"gopalwadi road , daund"
+4746284f,Ayush,Raju,Banne,Male,4,9960377715,"Daund, Maharashtra, India"
+4e0dd973,Anil,,Sonawane,Male,21,9049557419,"Sonawane wasting, Sonawadi."
+89edfc49,Siddi,Mama,Javir,Female,7,9766610593,Daund
+ad27d800,Sanjay,Shankar,Shelar,Male,41,9657716108,Malad
+d7e46756,Hausabai,Pralhad,Kamthe,Female,52,7588622428,Harsh Niwas
+f323426b,Rajesh,,Kulkarni,Male,52,9422319075,sONWADI
+68dbf3b3,Akshay,,Dandekar,Male,29,8993661048,Gulmohar appt.
+c7c87558,Zaid,,Khan,Male,25,8149398128,Dream House Appt.
+9fe3f1eb,Karina,Madhukar,Vaidya,Female,19,9607291545,Near Varadvinayak HSG Soc.
+31ec4061,Bandu,,Atpadkar,Male,26,7709224311,Kurkumbh
+8de23d07,Deepak,,Lengare,Male,34,9420424487,Gopalwadi
+b63840d2,Nilesh,Vijay,Thorkar,Male,35,8983911678,Shendevasati
+a4c30fb0,Shailendra,Bapu,Parale,Male,44,9175732885,SRPF GR V
+1153c7b8,Amar,,Patre,Male,34,7972710506,daund
+8435636f,Chandrabhaga,,Shinde,Female,54,,"Girim, Maharashtra, India"
+7f17c984,Anush,Shankar,Gadilkar,Male,6,9923626676,"Dattanagar , daund"
+f3978750,Shyam,,Chavan,Male,49,9822632464,"Baramati Daund Rd, Sahakar Chowk, Dattanagar, Daund, Maharashtra 413801, India"
+97793cba,Kunda,Manik,Bagde,Female,66,8381023576,"JXai Niwas , Canal Road"
+54de234b,Rohini,B,Raut,Female,23,9763631881,Kasti
+e6551ecc,Divya,Vishal,Pawar,Female,6,9960078033,Sonawadi
+4634103f,Shubhangi,,Sonawane,Female,43,9923424769,"Shende vasti , daund"
+8eb2acb7,Ayush,Bhaskar,Kumbhar,Male,9,9823032785,"Gopalwadi Rd, Mergalwadi, Maharashtra 413801, India"
+64386678,Smita,,Mhaske,Female,28,9420001658,"FH38+FGR, Varad Vinayak Society, Daund, Maharashtra 413801, India"
+b6c78509,Onkar,Shrihari,Pansare,Male,24,7057800883,Daund
+805c2b84,Hrugvedi,Sudhir,Nimbalkar,Female,3,9689721084,Devkinagar daund
+6340b54a,Nitin,,Landge,Male,26,8605045345,"Near siddeshwar hospital , daund"
+2f537b7b,Tejaswini,Ganesh,Salunkhe,Female,25,8956137932,Gopalwadi Road dound
+591048c7,Swarna,Maroti,Gaikwad,Female,60,9049327029,"Near swami Samarth mandir ,daund"
+f7508f68,Aradhya,,Khile,Female,5,927148160,"Shivrajnagar, Daund"
+315b90f5,Nirmala,,Bulakhe,Female,31,9923770725,Gopalwadi
+4567263f,Nishita,,Jagtap,Female,17,8459719288,"Bhavaninagar,"
+7301b91a,Riya,Madhav,Chougule,Female,7,9673731655,Shiram Appt. Devkinagar
+,,,,,,,
+c4321ad9,Hemraj,,Sonawani,Male,6,7249512511,"Hole vasti , daund"
+292bd9c1,Manjusha,,Adhav,Female,28,9881421313,Gopalwadi
+1385be23,Sarika,,Shitole,Female,34,9049779911,Gar
+,,,,,,,
+715c15fa,Sarika,Dhananjay,Shitole,Female,34,9049779911,At gar kangaon Daund shitole mala
+587b45b2,Tejeshwi,,Dalimbe,Female,7,9763169455,"Devkinagar, Gopalwadi Road, Daund."
+e25a2f8b,Laxmi,,Bag,Female,35,9665293016,"Gopalwadi, Maharashtra 413801, India"
+dcd96db7,Megha,,Gaikwad,Female,39,9730799915,"Gopalwadi , daund"
+5d605383,Deepali,,Kalbande,Female,31,7058088262,"Bhavaninagar , Daund"
+de4be411,Deepak,,Dodke,Male,29,9850164769,"Gopalwadi, Maharashtra 413801, India"
+9537376b,Sandesh,Vitthal,Sable,Male,36,9552551848,SRPF Gr. 7
+62230f0a,Dagadu,Bhau,Satre,Male,53,7972675769,bhoitenagar
+e825e575,Anil,Kishan,Devkate,Male,31,8446461102,"Gajanan Society Rd, Gopalwadi, Maharashtra 413801, India"
+34ab823d,Monika,,Subhedar,Female,24,7972084791,Deopam
+02e047d3,Jyotsana,Sunil,Wagh,Female,52,9423561428,"Ganesh Soc ,Gopalwadi Road,"
+e7fd06f9,Sunil,,Wagh,Male,57,9423222043,"Ganesh society, Daund"
+4cffcf40,Vinod,Jacob,Hargude,Male,33,9890777145,Bangla Saide
+ca9792a0,Amol,,Zore,Male,22,,Daund
+b2c6b0d9,Chandrakanth,,Kale,Male,38,9850663099,"Bhavaninagar, Daund."
+2a3556bd,Pranav,Dilip,Jadhav,Male,16,7755904384,"Shende Vasti, behind Sai Swapna apartment."
+dda077bd,Neelawati,Sakharam,Bhagwat,Female,65,7709766458,Kurkumbh
+21f9640b,Archana,Dadasaheb,Lonkar,Female,42,9049376086,"Yashwant Niwas,Dattanagar,Gopalwadi Road,Daund."
+5ce13f39,Bhargav,Raju,Baravkar,Male,25,9011859923,Ganesh Soc
+05c3def1,Pooja,Rajesh,Jadhav,Female,45,9850068785,"Swapnapurti , Gopalwadi Road"
+08481bbb,Suman,,Nagargoje,Female,55,9423023120,"Daund, Maharashtra, India"
+2f5599f4,Navnath,Pandhari,Bamble,Male,34,8793623570,Daund SRPF 7
+6a092b44,Era,,Jadhav,Female,8,9527464164,Greenwood app. Gopalwadi Daund.
+5ea7a65a,Vinod,Subhash,Hole,Male,18,9860096970,Gopalwadi
+0302a076,Hausrao,,Kulal,Male,49,9823709072,Shivrajnagar Daund
+eb98f760,Sangeeta,,Gaikwad,Female,35,9657283445,"Gajanan society, Daund."
+8fb5d45e,Ajay,Krushana,Pawar,Male,20,8888337030,yadavwasti
+5b37cba2,Mukesh,Suresh,Babhute,Male,46,9860421311,SRPF Gr V  Daund
+4dac6849,Rohini,B,Raut,Female,23,9763631881,Kasti
+1875767c,Anil,Dajirao,Salve,Male,61,8390830333,Near Bhavana Hotel
+f6c192fe,Nikhil,Kisan,Hole,Male,31,7218997111,Girim
+b2d45cf6,Dnyaneshwar,Namdev,Adsare,Male,24,7420928984,Dattanagar
+877cdd7a,Onkar,Raju,Karale,Male,16,9823788029,Vaishnavi Appt. Dattanagar
+40054b32,Nikhat,,Mirza,Female,32,9890257550,Sarpanch vasti
+c65ce28e,Swarali,,Dnyandadeo,Female,6,,Casti
+b0efda2b,Ashok,,Jadhav,Male,34,9527464164,Greenwood app. GOPALWADI
+5901b219,Sunanda,,Kukarde,Female,70,9673922201,"Shipshape society,Daund."
+320ca8a4,Mehul,,Chafekar,Male,26,9167083826,Gopalwadi
+a55f1a8d,Shrawani,Surendra,Ovhal,Male,18,7218755466,"Arunsagar  Niwas , Bhoitenagar ,Daund"
+8c75d0ec,Ratnakar,,Choramale,Male,28,8087552264,"Near Red Church, Daund"
+cd018170,Saumya,Dinesh,Adsul,Female,14,9421762569,"Sarpanchwasti, Daund"
+e3ae69fb,Anisa,,Mulla,Female,29,9960950662,"Samtanagar , Daund"
+65c91d2b,Sneha,Samir,Khare,Female,25,9890803081,Shendevasti
+2ec6880c,Priya,Ranjeet,Pol,Female,35,7757885888,Gajanan Soc. Nr MSEB Daund
+63a6062f,Anita,,Patil,Female,62,8605851977,Padmavatinagar Daund
+b930fd85,Vidya,,Whag,Female,32,9422718389,"Gajanan society, Daund."
+c15835ba,Swati,,Singh,Female,30,7262957990,Near Varadvinayk HSG Soc Daund
+ae9d7388,Sandeep,,Bandre,Male,27,7030486482,"Nanvij,Daund."
+4452425d,Gajanan,,Dharmadhikari,Male,74,9049122518,Gajanan HSG  Soc Daund
+f69d7dd1,Shri,Gajanan,Bankar,Male,7,9270344925,"Sainath Appt. Dattanagar ,Daund"
+164bbb49,Pooja,Mangesh,Ugale,Female,25,8007097766,"Sai-sneha apartment, Gopalwadi Road."
+3894914f,Ravindra,,Ahivale,Male,50,9637214711,"Vighnaharta Apartment,Devkinagar, Gopalwadi Rd, Daund, Maharashtra 413801, India"
+6030781c,Monika,,Jagtap,Female,23,8623907162,Bhoitaynagar
+b8754f46,Vaishali,,Jadhav,Female,42,7020847413,Boravkanagar
+b3961081,Vijya,,Raskar,Female,55,7666924752,"Dattanagar, Gopalwadi Daund."
+548714a1,Waman,Bhagwan,Lohar,Male,71,9970581362,"Dattanagar ,daund"
+61c787f6,Sharad,Balu,Bhongale,Male,30,7276298050,"Jadhavwadi, Girim"
+f05bd970,Shreya,Kiran,Chauhan,Male,9,9096368615,Chandrabhaganagar
+4c800a42,Shailesh,Subhash,Kadam,Male,43,9096331181,"Kasturi Pride,"
+fe86847f,Sangita,Anandrao,Patil,Female,40,8262894790,"Near Mane Hospital, Daund"
+ed7e9b3e,Savita,,Bansode,Female,28,9960393288,Vetalnagar
+e40e7d7e,Mohini,,Raykar,Female,16,9730703958,Gopalwadi
+8c12e02d,Sunny,,Singh,Male,19,7719737956,Near Ashok layland showroom Kurkumbh
+9b6026d1,Abhinavkumar,Kashinath,Singh,Male,28,96689926510,"Yash Appt. Janata Colony ,Daund"
+0bea240b,Sadhana,Kashinath,Singh,Female,48,9156842661,"Yash Appt. Janata Colony, Daund"
+f448a878,Suresh,Nanasaheb,Shinde,Male,61,8446302362,Gopalwadi
+6688eed8,Kisan,,Hole,Male,56,9657578888,Girim
+0770997f,Mrs Reshma,Santosh,Suryawanshi,Female,30,8459189199,Mandavgan Pharata
+9a76917e,Chaitrali,Ganesh,Raut,Female,6,8484837187,"More vasti , Kurkumbh Road,"
+22038508,Manisha,Ganesh,Raut,Female,30,8484837187,"More Vasti , Kurkumbh Road"
+26883345,Tamanna,,Shaikh,Female,44,9850353142,Near St.Sebastin H S Daund
+dc3fc988,Mayur,,Devkar,Male,27,8686038080,Bhavaninagar Daund
+283992ac,Tejas,,Gulve,Male,32,8888818927,DevPalm
+ccabb122,Gauri,Tushar,Kulkarni,Female,30,9834566708,"Swapnarang Appt ,Gopalwadi Road"
+5c79dd5a,Swarali,Sachin,Memane,Female,17,9922422022,"Sarpanch vasti , Gopalwadi Road"
+41fc7dfe,Shalan,Changdev,Shende,Female,,9922680052,Near Sakhare Garege
+5723ee4f,Neeta,,Kondke,Female,56,,Near St. Sebastin H S Daund
+bc8bed7c,USHA,,TARPADE,Female,32,9284172894,SRP Gr VII DAUND
+0b73dd14,Diana,,Maryan,Female,59,9665888108,"Bangla Side, Daund."
+65d18f1d,Ramesh,,Saluke,Female,60,9823220960,"Shendevsti, Bhavaninagar,"
+bbfeec02,Vandana,Zumbar,Shete,Female,42,9665836899,Shivrajnagar
+4d22069e,Appa,Dnynoba,Salunke,Male,56,9011518570,Near Janta H S
+3e98cc48,Harshita,Sachin,Zambre,Female,7,9921430755,SRPF Gr vii
+e3974eae,Viraj,Sachin,Zambare,Male,11,,
+227c0131,Vishal,Babasaheb,Khaladkar,Male,23,9764713762,Gopalwadi
+f8f7df24,Janki,,Uikey,Female,30,7000785053,Gajanan Society
+2248c84d,Rajnandini,Yogesh,Majalgaonkar,Female,13,9673229940,Samtanagar
+aa83d1f2,Mina,,Maksane,Female,45,9145162268,"Sutar Net,Near  Patil chowk ,Daund"
+ebc6d46f,Nandini,,Dongre,Female,27,7517657078,Gopalwadi
+0990479f,Shamim,Zuber,Khan,Female,43,9225569553,Near st. Sebastin H. S. Daund
+2c4a46b0,Mirabai,Vishnu,Sudrik,Female,60,9823257726,Shivrajnagar
+946d69e2,Sanjay,Vijay,Hole,Male,53,8390117111,Gopalwadi
+5641ec9b,Sandhya,Suresh,Jadhav,Female,65,9960755537,Gopalwadi Road
+30cb6c3f,Mallu,,Gajdhane,Male,72,8087760554,"Shende Vasti, Gopalwadi road, Daund."
+26a7aff3,Tukaram,Bhimrao,Pachapute,Male,44,9922093616,Jaswand Appt. Near Shaikh Flower Mill
+eadd73a3,Vilas,Dattatray,Jadhav,Male,83,9767030007,"Samtanagar, Daund."
+5e9d9a14,Sanjay,,Sakhare,Male,54,,"Sakhare garage, Gopalwadi Rd, near Sidheshwar Hospital, Daund, Maharashtra 413801, India"
+f71fe703,Bhimrao,,Basavnathe,Male,65,9923430176,Samtanagar
+ef682f32,Tanvi,,Chopade,Female,5,9765295544,Sarpanchvasti
+6ef5a40f,Vipashyana,,Jawale,Female,20,7057556633,"Kadgaon, Maharashtra 416220, India"
+5fce8ecc,Dilip,,Sable,Male,50,9922078220,"Bhoitenagar ,Daund"
+db1b7444,Ganesh,,Dongare,Male,25,9975680170,Gopalwadi
+bbf2e2bc,Sneha,,Jadhav,Female,26,9762612669,"Karhati ,Ta. Baramati"
+9d1b12e5,Riddhi,,Mane,Female,4,9146296748,"Tripartite residence, Bhavaninagar, Daund."
+cd4951d5,Laila,,Shaikh,Female,65,9860153336,"Near Mane Hospital ,Daund"
+9c376b9b,Dnyaneshwar,,Sonawane,Male,83,,"Gajanan Society Rd, Daund, Maharashtra 413801, India"
+b2b59b2f,Soham,Lalasaheb,Somvanshi,Male,8,9923055825,"Devkinagar ,  Gopalwadi Road ,"
+41ba7b1a,Bharati,,Desai,Female,43,9158425283,"Shivrajnagar,Daund"
+8c6e5e87,Vandana,Ganesh,Ghongade,Female,22,9272492347,Gopalwadi
+122440d0,Navnath,,Tambe,Male,33,9373677820,"Panchganga apartment, Daund."
+265d4e9b,Farhanz,,Shaikh,Female,25,9890355794,"Dattanagar, Gopalwadi road, Daund."
+24042a76,Pooja,Ameet,Janjire,Female,25,8888830300,"Gopalwadi ,"
+175ab3b2,Kalavati,,Atole,Female,62,7249500723,"Shivrajnagar, Daund."
+83f28876,Pradnesh,Amol,Hajare,Male,4,9270061023,Shendevasati
+45c81434,Arvind,Chandrakant,Satpute,Male,40,9096368615,"Chandrabhaganagar ,Daund"
+a882c6e2,Kamal,Kisan,Jdhav,Female,48,9960214336,Balajinagar
+e0b2029a,Pranikate,,Badekar,Male,8,9604728267,"Gajanan Society Rd, Daund, Maharashtra 413801, India"
+65cf213c,Nabiya,,Vithalani,Female,4,9924267905,Devpalm

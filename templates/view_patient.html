@@ -1,0 +1,137 @@
+<form method="post" action="/">
+  <div class="mb-3">
+    <label for="recipient-name" class="col-form-label">First Name:</label>
+    <input
+      type="text"
+      class="form-control"
+      name="first_name"
+      value="{{ view_pat.first_name }}"
+      disabled
+    />
+  </div>
+  <div class="mb-3">
+    <label for="recipient-name" class="col-form-label">Middle Name:</label>
+    <input
+      type="text"
+      class="form-control"
+      name="middle_name"
+      value="{{ view_pat.middle_name }}"
+      disabled
+    />
+  </div>
+  <div class="mb-3">
+    <label for="recipient-name" class="col-form-label">Last Name:</label>
+    <input
+      type="text"
+      class="form-control"
+      name="last_name"
+      value="{{ view_pat.last_name }}"
+      disabled
+    />
+  </div>
+  <div class="mb-3">
+    <label for="recipient-name" class="col-form-label">Contact:</label>
+    <input
+      type="text"
+      class="form-control"
+      name="contact"
+      value="{{ view_pat.contact }}"
+      disabled
+    />
+  </div>
+  <div class="mb-3">
+    <label for="recipient-name" class="col-form-label">Age:</label>
+    <input
+      type="text"
+      class="form-control"
+      name="age"
+      value="{{ view_pat.age }}"
+      disabled
+    />
+  </div>
+  <div class="mb-3">
+    {% if view_pat.gender|upper == 'MALE' %}
+    <input
+      type="radio"
+      class="btn-check"
+      name="gender"
+      id="option1"
+      autocomplete="off"
+      value="Male"
+      checked
+    />
+    {% else %}
+    <input
+      type="radio"
+      class="btn-check"
+      name="gender"
+      id="option1"
+      autocomplete="off"
+      value="Male"
+      disabled
+    />
+    {% endif %}
+    <label class="btn btn-secondary" for="option1">Male</label>
+
+    {% if view_pat.gender|upper == 'FEMALE' %}
+    <input
+      type="radio"
+      class="btn-check"
+      name="gender"
+      id="option2"
+      autocomplete="off"
+      value="Female"
+      checked
+    />
+    {% else %}
+    <input
+      type="radio"
+      class="btn-check"
+      name="gender"
+      id="option2"
+      autocomplete="off"
+      value="Female"
+      disabled
+    />
+    {% endif %}
+    <label class="btn btn-secondary" for="option2">Female</label>
+
+    {% if view_pat.gender|upper == 'OTHER' %}
+    <input
+      type="radio"
+      class="btn-check"
+      name="gender"
+      id="option3"
+      autocomplete="off"
+      value="Other"
+      checked
+    />
+    {% else %}
+    <input
+      type="radio"
+      class="btn-check"
+      name="gender"
+      id="option3"
+      autocomplete="off"
+      value="Other"
+      disabled
+    />
+    {% endif %}
+    <label class="btn btn-secondary" for="option3">Other</label>
+
+  </div>
+  <div class="mb-3">
+    <label for="message-text" class="col-form-label">Address:</label>
+    <textarea
+      class="form-control"
+      name="address"
+      value="{{ view_pat.address }}"
+      disabled
+    ></textarea>
+  </div>
+  <div class="modal-footer">
+    <button href="/" type="button" class="btn btn-secondary" data-bs-dismiss="modal">
+      Close
+    </button>
+  </div>
+</form>

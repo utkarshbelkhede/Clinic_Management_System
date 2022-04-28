@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <!-- Bootstrap CSS -->
+    <link href="../static/css/bootstrap.min.css" type="text/css" rel="stylesheet"/>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    <title> Vandana Dental Clinic</title>
+  </head>
+  <body>
+    <nav class="navbar navbar-expand-lg fixed-top navbar-light bg-light">
+      <div class="container-fluid">
+        <a class="navbar-brand" href="#">
+          <img
+            src="../static/images/Logo-Dark.png"
+            alt=""
+            width="50"
+            height="50"
+          />
+        </a>
+        <button
+          class="navbar-toggler"
+          type="button"
+          data-bs-toggle="collapse"
+          data-bs-target="#navbarSupportedContent"
+          aria-controls="navbarSupportedContent"
+          aria-expanded="false"
+          aria-label="Toggle navigation"
+        >
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+          <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+            <li class="nav-item">
+              <a class="nav-link active" aria-current="page" href="#">Home</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="/">Show Patients</a>
+            </li>
+            <li class="nav-item">
+              <a
+                class="nav-link"
+                href="#"
+                class="btn btn-primary"
+                data-bs-toggle="modal"
+                data-bs-target="#add_patient_modal"
+                >Add Patients</a
+              >
+            </li>
+          </ul>
+          <form
+            class="d-flex"
+            method="post"
+            action="/search"
+            autocomplete="off"
+          >
+            <input
+              class="form-control me-2"
+              name="live_search_patient"
+              type="search"
+              placeholder="Type to Search"
+              aria-label="Search"
+            />
+            <button class="btn btn-outline-success" type="submit">
+              Search
+            </button>
+          </form>
+        </div>
+      </div>
+    </nav>
+    {% block patient_table %} {% endblock patient_table %}
+    
+    <!-- Add Patient Modal -->
+    <div
+      class="modal fade"
+      id="add_patient_modal"
+      tabindex="-1"
+      aria-labelledby="exampleModalLabel"
+      aria-hidden="true"
+    >
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h5 class="modal-title" id="exampleModalLabel">Add Patient</h5>
+            <button
+              type="button"
+              class="btn-close"
+              data-bs-dismiss="modal"
+              aria-label="Close"
+            ></button>
+          </div>
+          <div class="modal-body">
+            <form method="post" action="/">
+              <div class="mb-3">
+                <label for="recipient-name" class="col-form-label"
+                  >First Name:</label
+                >
+                <input type="text" class="form-control" name="first_name" />
+              </div>
+              <div class="mb-3">
+                <label for="recipient-name" class="col-form-label"
+                  >Middle Name:</label
+                >
+                <input type="text" class="form-control" name="middle_name" />
+              </div>
+              <div class="mb-3">
+                <label for="recipient-name" class="col-form-label"
+                  >Last Name:</label
+                >
+                <input type="text" class="form-control" name="last_name" />
+              </div>
+              <div class="mb-3">
+                <label for="recipient-name" class="col-form-label"
+                  >Contact:</label
+                >
+                <input type="text" class="form-control" name="contact" />
+              </div>
+              <div class="mb-3">
+                <label for="recipient-name" class="col-form-label">Age:</label>
+                <input type="text" class="form-control" name="age" />
+              </div>
+              <div class="mb-3">
+                <input
+                  type="radio"
+                  class="btn-check"
+                  name="gender"
+                  id="option1"
+                  autocomplete="off"
+                  value="Male"
+                  checked
+                />
+                <label class="btn btn-secondary" for="option1">Male</label>
+
+                <input
+                  type="radio"
+                  class="btn-check"
+                  name="gender"
+                  id="option2"
+                  autocomplete="off"
+                  value="Female"
+                />
+                <label class="btn btn-secondary" for="option2">Female</label>
+
+                <input
+                  type="radio"
+                  class="btn-check"
+                  name="gender"
+                  id="option3"
+                  autocomplete="off"
+                  value="Other"
+                />
+                <label class="btn btn-secondary" for="option3">Other</label>
+              </div>
+              <div class="mb-3">
+                <label for="message-text" class="col-form-label"
+                  >Address:</label
+                >
+                <textarea class="form-control" name="address"></textarea>
+              </div>
+              <div class="modal-footer">
+                <button
+                  type="button"
+                  class="btn btn-secondary"
+                  data-bs-dismiss="modal"
+                >
+                  Close
+                </button>
+                <button type="submit" class="btn btn-primary">
+                  Add Patient
+                </button>
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <script type="text/javascript" src="../static/js/bootstrap.min.js"></script>
+  </body>
+</html>
