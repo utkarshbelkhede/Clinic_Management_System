@@ -11,7 +11,7 @@ import pickle
 import secrets
 import string
 
-#credentials = pickle.load(open("static/token.pkl", "rb"))
+credentials = pickle.load(open("notebook/token.pkl", "rb"))
 service = build("calendar", "v3", credentials=credentials)
 
 
@@ -53,7 +53,7 @@ def create_event(start_time, summary, duration=1, description=None, location=Non
 # create a flask instance
 app = Flask(__name__)
 # add database
-password = 'Password'
+password = 'Utkarsh_99'
 app.config['SQLALCHEMY_DATABASE_URI'] = "mysql+pymysql://root:" + password + "@127.0.0.1:3306/clinic"
 app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
 # initilize the database
